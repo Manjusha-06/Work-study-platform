@@ -1,0 +1,44 @@
+/* Loginpage.css */
+form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #e9f177e3;
+}
+
+form label {
+  font-weight: 600;
+}
+
+input {
+  width: 100%;
+  padding: 8px 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  text-align: center;
+}
+body {
+  background-color: lightblue; /* or any color like #f0f0f0, #007bff, etc. */
+}
